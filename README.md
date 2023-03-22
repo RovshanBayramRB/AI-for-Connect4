@@ -1,1 +1,1 @@
-# AI-for-Connect4
+In this project, I developed a board game called Connect4 using Object-Oriented Programming (OOP) and applied several Artificial Intelligence (AI) methods. To make this project better, I created Graphical User Interface (GUI) using Tkinter library of Python. For the AI side, I implemented mini-max and alpha-beta algorithms which means that a user can play this game against two different AI players. Additionally, there is functionality to let a user play with another user except AI.
